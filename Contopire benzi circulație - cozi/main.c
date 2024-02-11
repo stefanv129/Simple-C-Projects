@@ -1,3 +1,10 @@
+// Driving on a highway with 2 lanes in each direction, 
+//     you reach a point where, due to infrastructure work, traffic is slowed down, and the 2 lanes merge into a single one. 
+//     Assuming all drivers follow this rule, cars from the two lanes will merge alternately into the available lane. 
+//     Write a program to interleave and display the order of cars after the merge, starting with the cars from the second lane.
+
+
+
 #include "functii.h"
 
 
