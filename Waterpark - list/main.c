@@ -1,3 +1,12 @@
+
+// For the Easter holidays, your group of friends decided to go to a waterpark, 
+// where a water slide competition is taking place. There are three slides with three queues forming in front of them. 
+// Contestants choose their queues based on preferences, but the slides cannot start until there is at least one person in each queue. 
+//  Display the sets of three contestants leaving together. 
+//     If there are remaining contestants at the end who cannot leave (due to at least one empty queue), they are not displayed.
+
+
+
 #include "functii.h"
 
 int main() {
